@@ -1,0 +1,16 @@
+#virtual environment directories
+bin
+include
+lib
+man
+share
+
+#output directories
+exp
+
+#python files/directories
+__pycache__
+*.pyc
+
+#project files
+explore_hdf5_files.py
